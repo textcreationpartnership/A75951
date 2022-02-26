@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last discourse betwixt Master Abel and Master Richard Kilvert, interrupted at the first by an ancient and angry gentlewoman, who being her selfe unknowne unto the observer of this conference, it was conceived by him afterwards to be a certaine friend of Mr Abels.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75951</idno>
+            <idno type="STC">Wing A73</idno>
+            <idno type="STC">Thomason E156_18</idno>
+            <idno type="STC">ESTC R22195</idno>
+            <idno type="EEBO-CITATION">99871650</idno>
+            <idno type="PROQUEST">99871650</idno>
+            <idno type="VID">156878</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75951)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156878)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E156[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last discourse betwixt Master Abel and Master Richard Kilvert, interrupted at the first by an ancient and angry gentlewoman, who being her selfe unknowne unto the observer of this conference, it was conceived by him afterwards to be a certaine friend of Mr Abels.</title>
+                  <author>Abell, William, fl. 1640.</author>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire against Richard Kilvert and William Abel, alderman of London, imprisoned in November 1640 for his "part in the imposition of the arbitrary duty of 40s. per tun on wine." (cf.DNB).</note>
+                  <note>Sometimes attributed to William Abell.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Title page woodcut.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abell, William, fl. 1640 --  Early works to 1800.</term>
+               <term>Kilvert, Richard, d. 1649 --  Early works to 1800.</term>
+               <term>Wine and wine making --  Taxation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156878:1" rendition="simple:additions"/>
+            <p>The laſt DISCOURSE Betwixt Maſter <hi>Abel</hi> and Maſter <hi>Richard Kil<g ref="char:EOLhyphen"/>vert,</hi> interrupted at the firſt by an ancient and angry Gentlewoman, who being her ſelfe unknowne unto the obſerver of this Conference, it was conceived by him afterwards to be a certaine friend of M<hi rend="sup">r</hi> 
+               <hi>Abels.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut</figDesc>
+            </figure>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:156878:2"/>
+            <pb n="1" facs="tcp:156878:2"/>
+            <head>
+               <hi>A diſcourſe betwixt</hi> Mr. ABELL <hi>and</hi> Mr. RICHARD KILVERT.</head>
+            <sp>
+               <speaker>Abel</speaker>
+               <p>IT cannot be help'd now, Maſter <hi>Kilvert.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gentlewo.</speaker>
+               <p>It cannot bee help'd, marry'eene beſhrew your hearts for it, (I have vverheard your conference) it is a fine paſſe I am brought too, is it not? Shall I who was com<g ref="char:EOLhyphen"/>panion for the beſt City Ladies, who had my coach and my horſes to carry me when and where I pleaſed, be contented now to ſit at the lower end of the table, as if I was little better forſooth then one of the ſcullery: muſt I in my old age carry this weary body now on my owne feete, if I meane to have it carried at all; muſt I indure that my vel<g ref="char:EOLhyphen"/>vet and my damaske Gownes ſhould bee diſwar<g ref="char:EOLhyphen"/>drob'd into ſome red Petticoate or Waſtecoate, or ſome worſe Polony Jumpe; I marry! what will the people ſay? here is a fine jumpe indeed, from honour to infamy, from wealth to want, from bravery to rags; from—</p>
+            </sp>
+            <sp>
+               <speaker>Abel</speaker>
+               <p>Nay, prethee be quiet ſweet-heart, pre<g ref="char:EOLhyphen"/>thee Lady be not ſo intemperate!</p>
+            </sp>
+            <sp>
+               <speaker>Gentlewo.</speaker>
+               <p>Sweet-heart me no ſweet-hearts, Lady
+<pb n="2" facs="tcp:156878:3"/>me no Ladies, I muſt forget all ceremonies and titles of honour, I, it is your ungovern'd thoughts that have diſtracted me to an ungovern'd tongue, you are a very, very honeſt man, are you not M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſter <hi>Abel?</hi> (ſhe claps her hands at him.)</p>
+            </sp>
+            <sp>
+               <speaker>Kilvert.</speaker>
+               <p>What ſtrange inventions doe theſe women uſe to ſatisfie the malice of their ſpleene when their tongues begin to be weary, they will borrow new incouragement from their hands, and doe what they can to make them ſcold too?</p>
+            </sp>
+            <sp>
+               <speaker>Gentlewo.</speaker>
+               <p>And ſafer too I wis, then to make their tongues the undoing of whole families by begging unjuſt Monopolies and Oinopolies, and I know not what inventions of infamy and ruine.</p>
+            </sp>
+            <sp>
+               <speaker>Kilvert.</speaker>
+               <p>Sure this Gentlewomans braines be<g ref="char:EOLhyphen"/>gins to unſettle, adviſe her to goe in and to feede on warme things.</p>
+            </sp>
+            <sp>
+               <speaker>Gentlewo.</speaker>
+               <p>Marry and I receive nothing but cold comfort from you, it would make a woman franticke indeed, to be ſerv'd as I am ſerv'd: but what is now become my Maſters of your ſo deep, ſo ſubtile underſtandings? you that were two of the moſt cunning contrivers, of the moſt contri<g ref="char:EOLhyphen"/>ving Projectors, of the moſt projecting oppreſſors, what is now become of all your plots, of all your reache? if I had not rather chooſe two hogsheads for my Councellors, and ſafer, let mee never bee truſted more.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>She had alwaies an high and perillous ſpi<g ref="char:EOLhyphen"/>rit, I pray beare with her Maſter <hi>Kilvert.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gentlewo.</speaker>
+               <p>A perillous ſpirit indeed, to be fool'd by your wiſdomes, you are a paire of a perillous I
+<pb n="3" facs="tcp:156878:3"/>know what; you dare not go into the Vintners cel<g ref="char:EOLhyphen"/>lars, for fear the hogsheads themſelves in diſdaine of that muſty liquor which your tyrannies do in<g ref="char:EOLhyphen"/>forc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them to containe, and ſenſible of the injury, working altogether and framing to a revenge, ſhould ſplit their angry ribs againſt your guilty heads, and make you the examples of their juſtice before juſtice herſelfe hath fully cenſured you.</p>
+            </sp>
+            <stage>Exit Gentlewoman.</stage>
+            <sp>
+               <speaker>Kilvert.</speaker>
+               <p>Alas, poore Gentlewoman I am very ſory for her! and in troth cannot much blame her paſſions.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>She hath not that reaſon to grow ſo violent as ſhe herſelfe conceiveth, but I have the greateſt afflictions that mankinde can be capable of, I am expoſed to the hatred of all men, my eſtate quite loſt, my friends and old acquaintance accuſing me, my conſcience tormenting me, and my ſelfe daily expecting when juſtce ſhall proceed againſt me.</p>
+            </sp>
+            <sp>
+               <speaker>Kilvert.</speaker>
+               <p>And I am even Maſter <hi>Abel</hi> in the ſame pickle my ſelfe, but the people as I underſtand en<g ref="char:EOLhyphen"/>tertaine a great fear and a griefe for me, but marry what is it? their feare is that my puniſhment ſhall not be ſo great as my offences, and that is the rea<g ref="char:EOLhyphen"/>ſon of their griefe; whatſoever they wiſh to you it ſeemes they have a care of me I thank them.</p>
+            </sp>
+            <sp>
+               <speaker>Abel.</speaker>
+               <p>I never ſought after nor conſpired againſt the life of any of them.</p>
+            </sp>
+            <sp>
+               <speaker>Kilver.</speaker>
+               <p>But you have againſt the eſtates of ma<g ref="char:EOLhyphen"/>ny of them, and that is their livelihood, and ſo by conſequence have wrought their ruine, and what is that, but whiles you bring them into penuty and
+<pb n="4" facs="tcp:156878:4"/>want by a lingring and a more truell execution, you are many yeares in killing them.</p>
+            </sp>
+            <sp>
+               <speaker>Abell.</speaker>
+               <p>It is true indeed, too true Mr. <hi>Kilvert,</hi> but why did you not tell me this before?</p>
+            </sp>
+            <sp>
+               <speaker>Kilver.</speaker>
+               <p>A more diſcerning eye then mine might be deceived in the foreſeeing of the event of things eſpecially in the Labyrinths and per<g ref="char:EOLhyphen"/>plexed <hi>Mazes</hi> of State affaires, was I of intelli<g ref="char:EOLhyphen"/>gence with the Deſtinies to foreſee the unanimity and intentions of this preſent Parliament, their ſtrict reſolves for the reformation of all abuſes, the riſe of Lincolne, and the fall of Canterbury, had not the Drummes of Scotland beat up their alarums in the Northerne Marches, had not their Trumpets ſounded in the Engliſh eares, for any thing that I know there had beene neither ſo many Parlyes with them, nor a Parliament amongſt our ſelves; but you and I might have lived ſecure enough, for who then in the hurry and confuſion of thoſe diſtracted times would have taken off our vaile of greatneſſe to looke upon our vices: it is hard believe me, when the errours of private men are countenanced by the authority of great and reverend perſonages, to diſcerne the errours, as in<g ref="char:EOLhyphen"/>deed they are, and to diſtinguiſh betwixt Vertue and Fortune.</p>
+            </sp>
+            <sp>
+               <speaker>Abell</speaker>
+               <p>But have we no redreſſe, no hope of re<g ref="char:EOLhyphen"/>dreſſe at all (Mr. <hi>Kilvert</hi>) the Parliament I under<g ref="char:EOLhyphen"/>ſtand is mercifull and noble, what if we petitioned unto them?</p>
+            </sp>
+            <sp>
+               <speaker>Kilver.</speaker>
+               <p>Tis right, but they are as juſt as they are mercifull, are you able to reſtore and make good
+<pb n="5" facs="tcp:156878:4"/>whatſoever wrongs you have done to thoſe who have accuſed you, for my owne part, I know my owne inabilities.</p>
+            </sp>
+            <sp>
+               <speaker>Abell.</speaker>
+               <p>Not I, not I, Mr. <hi>Kilvert,</hi> I am altoge<g ref="char:EOLhyphen"/>ther unable to make them ſatisfaction, neither in<g ref="char:EOLhyphen"/>deed am I very willing: beſides, the ſmall eſtate that I was maſter of, I have made over to my Heires.</p>
+            </sp>
+            <sp>
+               <speaker>Kilver.</speaker>
+               <p>It is like to continue with them long, I have read <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and the experience of all Ages hath juſtified the Proverbe.</p>
+            </sp>
+            <sp>
+               <speaker>Abell.</speaker>
+               <p>Maſter <hi>Kilvert</hi> you have a head that is well exerciſed in the Law, and have laid many projects to draw others into danger, cannot your wit finde one now to deliver your ſelfe indan<g ref="char:EOLhyphen"/>gered.</p>
+            </sp>
+            <sp>
+               <speaker>Kilver.</speaker>
+               <p>What project meane you Mr. <hi>Abell,</hi> I will tell you, and doe you remember it in your day of triall, who dare wilfully, and with a prepared reſolution tranſgreſſe the Law, dares undergoe any puniſhments that the Law can afflict; I have no other counſell to relieve you with at this pre<g ref="char:EOLhyphen"/>ſent.</p>
+            </sp>
+            <sp>
+               <speaker>Abell.</speaker>
+               <p>Will there no pitty bee extended to my aged head?</p>
+            </sp>
+            <sp>
+               <speaker>Kilver.</speaker>
+               <p>Gray haird iniquity is the moſt odious, to abuſe the goodneſſe of ſo gracious a Prince, to impoveriſh, to oppreſſe his ſubjects, and that un<g ref="char:EOLhyphen"/>der the umbrage of Juſtice and Authority are no eaſie crimes, Maſter <hi>Abell,</hi> what did you tell mee of devices, and I know not what projects, which
+<pb n="6" facs="tcp:156878:5"/>you were alwaies more ready to entertaine, then I to fancy, I would have you know, Mr. <hi>Abell.</hi> I defie the ſcandal and the imputation of the word.</p>
+            </sp>
+            <sp>
+               <speaker>Abell.</speaker>
+               <p>Excuſe me Sir, I did not thinke to have ſo much moved your patience, I ſee then that I muſt altogether rely on the mercy of God, and of the Parliament. I perceive you are to mee like one of <hi>Iobs</hi> friends, but a miſerable comforter.</p>
+            </sp>
+            <sp>
+               <speaker>Kilver.</speaker>
+               <p>Wee muſt arme our ſelves with <hi>Iobs</hi> pa<g ref="char:EOLhyphen"/>tience, though we cannot with his innocence, and make our ſufferings examples unto times to come, that they dare no more with ſuch cloſe pretences as were ours, like ſo many pioners, ſeeke to under<g ref="char:EOLhyphen"/>mine the courſes and the force of Juſtice; who repents him of his offence (they ſay) is almoſt in<g ref="char:EOLhyphen"/>nocent. As he was ſpeaking this, there came in one unto them, and told them that there was a com<g ref="char:EOLhyphen"/>pany of ancient Gentlemen who deſired with ſpeede to have conference with them; who they were it is yet unknowne, but it appeared they were ſome Citizens who had beene abettors and complotters with them in the inhancement and ſo<g ref="char:EOLhyphen"/>phiſtication of the Wines; they whiſpered ſoftly amongſt themſelves, but becauſe they were alto<g ref="char:EOLhyphen"/>gether unknowne, having a deſire to doe nothing more then to informe the Reader with certainety and truth, both the perſons and their counſells are adjourned to a more cleer and a more full relation.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156878:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
